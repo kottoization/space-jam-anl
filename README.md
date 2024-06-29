@@ -7,6 +7,9 @@ This project uses anonymized data from real and animated basketball players to c
 🎯 Course Objectives
 
 -Utilize Python, pandas, and Visual Studio Code for data analysis.
+
 -Cleanse and manipulate data that requires critical analysis.
+
 -Apply machine learning techniques to cleanse and complete data.
+
 -Prepare data for multiple customer-facing purposes.
