@@ -14,7 +14,8 @@ By the end of this course, you will:
         - 🧹 Cleanse and manipulate data that requires critical analysis.
         - 🤖 Apply machine learning techniques to cleanse and complete data.
         - 🏗️ Prepare data for multiple customer-facing purposes.
-        - 🏀 Use JavaScript, Azure, GitHub, and Visual Studio Code to create a web app that helps the Tune Squad coach make data-driven decisions on the basketball court.
+        - 🏀 Use JavaScript, Azure, GitHub, and Visual Studio Code to create a web app that helps the 
+        Tune Squad coach make data-driven decisions on the basketball court.
         - 💻 Deploy applications in the cloud using GitHub Actions.
         - 🌐 Explore the CodeTour extension in Visual Studio Code for coding guidance.
         - 📊 Create and deploy a Water Break app using JavaScript and Azure Static Web Apps.
