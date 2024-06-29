@@ -46,7 +46,7 @@ By the end of this course, you will:
 
 
 
-    MIT License
+## MIT License
 
     Copyright (c) Microsoft Corporation.
 
